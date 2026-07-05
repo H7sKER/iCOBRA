@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Activity Bar -->
+    <dimen name="activity_bar_width">48dp</dimen>
+    <dimen name="activity_bar_item_size">44dp</dimen>
+    <dimen name="activity_bar_icon_size">22dp</dimen>
+
+    <!-- Side Panel -->
+    <dimen name="side_panel_width">260dp</dimen>
+    <dimen name="side_panel_min_width">180dp</dimen>
+    <dimen name="side_panel_max_width">400dp</dimen>
+
+    <!-- Menu Bar -->
+    <dimen name="menu_bar_height">36dp</dimen>
+    <dimen name="menu_item_horizontal_padding">10dp</dimen>
+    <dimen name="dropdown_min_width">180dp</dimen>
+    <dimen name="dropdown_item_vertical_padding">7dp</dimen>
+    <dimen name="dropdown_item_horizontal_padding">16dp</dimen>
+
+    <!-- Editor -->
+    <dimen name="editor_font_size">13sp</dimen>
+    <dimen name="editor_line_height">20dp</dimen>
+    <dimen name="editor_line_num_width">44dp</dimen>
+    <dimen name="editor_gutter_width">60dp</dimen>
+    <dimen name="minimap_width">70dp</dimen>
+    <dimen name="breadcrumb_height">26dp</dimen>
+
+    <!-- Tabs -->
+    <dimen name="tab_height">35dp</dimen>
+    <dimen name="tab_horizontal_padding">14dp</dimen>
+    <dimen name="tab_close_btn_size">20dp</dimen>
+
+    <!-- Bottom Panel -->
+    <dimen name="bottom_panel_height">220dp</dimen>
+    <dimen name="bottom_panel_tab_height">35dp</dimen>
+    <dimen name="bottom_panel_min_height">120dp</dimen>
+    <dimen name="bottom_panel_max_height">500dp</dimen>
+
+    <!-- Status Bar -->
+    <dimen name="status_bar_height">22dp</dimen>
+    <dimen name="status_item_horizontal_padding">8dp</dimen>
+
+    <!-- Command Palette -->
+    <dimen name="command_palette_width_ratio">0.7</dimen>
+    <dimen name="command_palette_max_height">400dp</dimen>
+    <dimen name="command_palette_item_height">36dp</dimen>
+    <dimen name="command_palette_input_height">42dp</dimen>
+
+    <!-- General -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">12dp</dimen>
+    <dimen name="spacing_lg">16dp</dimen>
+    <dimen name="spacing_xl">24dp</dimen>
+    <dimen name="spacing_xxl">32dp</dimen>
+    <dimen name="border_width">1dp</dimen>
+    <dimen name="border_radius_sm">3dp</dimen>
+    <dimen name="border_radius_md">6dp</dimen>
+    <dimen name="border_radius_lg">12dp</dimen>
+    <dimen name="icon_size_sm">14dp</dimen>
+    <dimen name="icon_size_md">18dp</dimen>
+    <dimen name="icon_size_lg">24dp</dimen>
+    <dimen name="text_size_xs">10sp</dimen>
+    <dimen name="text_size_sm">11sp</dimen>
+    <dimen name="text_size_md">13sp</dimen>
+    <dimen name="text_size_lg">16sp</dimen>
+    <dimen name="text_size_xl">20sp</dimen>
+    <dimen name="badge_size">16dp</dimen>
+</resources>
