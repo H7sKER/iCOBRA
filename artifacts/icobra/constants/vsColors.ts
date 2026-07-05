@@ -1,0 +1,60 @@
+const vsColors = {
+  editorBg: '#1E1E1E',
+  sidebarBg: '#252526',
+  activityBarBg: '#333333',
+  panelBg: '#1E1E1E',
+  panelHeaderBg: '#252526',
+  tabActiveBg: '#1E1E1E',
+  tabInactiveBg: '#2D2D2D',
+  statusBarBg: '#007ACC',
+  menuBarBg: '#3C3C3C',
+  inputBg: '#3C3C3C',
+  dropdownBg: '#252526',
+  terminalBg: '#1E1E1E',
+
+  text: '#D4D4D4',
+  textBright: '#CCCCCC',
+  textDim: '#858585',
+  textDisabled: '#5A5A5A',
+  statusBarFg: '#FFFFFF',
+  activityBarFg: '#FFFFFF',
+  activityBarInactiveFg: '#FFFFFF66',
+  sidebarFg: '#CCCCCC',
+  tabActiveFg: '#FFFFFF',
+  tabInactiveFg: '#8C8C8C',
+
+  accent: '#007ACC',
+  selection: '#264F78',
+  lineHighlight: '#2A2D2E',
+  currentLineBg: '#2A2D2E',
+
+  keyword: '#569CD6',
+  string: '#CE9178',
+  comment: '#6A9955',
+  number: '#B5CEA8',
+  functionColor: '#DCDCAA',
+  typeColor: '#4EC9B0',
+  variable: '#9CDCFE',
+  controlFlow: '#C586C0',
+  operator: '#D4D4D4',
+
+  border: '#3C3C3C',
+  borderFocus: '#007ACC',
+  buttonBg: '#0E639C',
+  buttonFg: '#FFFFFF',
+
+  error: '#F44747',
+  warning: '#CCA700',
+  info: '#75BEFF',
+  success: '#6A9955',
+
+  gitAdded: '#81B88B',
+  gitModified: '#E2C08D',
+  gitDeleted: '#C74E39',
+  gitUntracked: '#73C991',
+
+  debugBreakpoint: '#E51400',
+  treeIndentGuide: '#585858',
+};
+
+export default vsColors;

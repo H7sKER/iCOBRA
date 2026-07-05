@@ -1,0 +1,27 @@
+kind = "mobile"
+previewPath = "/"
+title = "iCOBRA"
+version = "1.0.0"
+id = "artifacts/icobra"
+router = "expo-domain"
+
+[[integratedSkills]]
+name = "expo"
+version = "1.0.0"
+
+[[services]]
+ensurePreviewReachable = "/status"
+name = "expo"
+paths = [ "/" ]
+localPort = 23818
+
+[services.development]
+run = "pnpm --filter @workspace/icobra run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/icobra", "run", "build" ]
+run = [ "pnpm", "--filter", "@workspace/icobra", "run", "serve" ]
+
+[services.env]
+PORT = "23818"
+BASE_PATH = "/"
